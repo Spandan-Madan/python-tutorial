@@ -11,13 +11,13 @@ If you are on a linux, we assume you already have some experience with managing 
 If you are on a windows, follow the section "How to Install Python 3
 " from this page - https://www.howtogeek.com/197947/how-to-install-python-on-windows/. You will also need to set up the Environment Variables as they show in that tutorial. This sounds confusing at first, but all that these do are tell your computer where certain files (like files needed by python to run) are located. Depending upon where you install it, you can set the Environment Variables.
 
-# I have python, how do I use this tutorial?
+## I have python, how do I use this tutorial?
 
 1. Work through the files in order by the numbers in the file names. Each Tutorial has comments (lines starting with # which tell you what the lines of code below do).
 2. I suggest take 2 passes at each file. First, read, second try to write commands yourself without seeing the code below. This will give you good experience with the syntax.
 3. Work on the project, which ties together all that you learn in the tutorial for an application, giving you hands on experience.
 
-# How do I learn more? 
+## How do I learn more? 
 
 When you complete the project, you'll be in good shape to take on most basic python tasks. Always remember that a large chunk of programming is basically searching on the internet for similar problems people have faced before. www.stackoverflow.com is your best resource for this.
 
